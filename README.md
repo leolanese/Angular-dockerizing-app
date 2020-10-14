@@ -14,11 +14,21 @@ Run `ng generate component component-name` to generate a new component. You can 
 Run `ng build` to build the project.
 Build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-### Running end-to-end tests
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
 ### Docker build
 To build docker image run `docker build -t angular-docker .`
 
 ### Docker run
-Run `docker run -d -p 80:80 --env BACKEND_API_URL=yourApiUrl --env DEFAULT_LANGUAGE=de angular-docker` to run docker image
+Run `docker run -d -p 80:80 --env API_URL=yourApiUrl --env LANGUAGE=es angular-docker` to run the docker image
+
+---
+### :100: <i>Thanks!</i>
+
+> { I'm `Leo Lanese`,<br>
+   'Building Inspiring Responsive `Reactive Solutions`',<br>
+   '`London, UK`' }<br>
+
+##### :radio_button: Twitter: <a href="https://twitter.com/LeoLaneseltd" target="_blank">@LeoLaneseltd</a>
+##### :radio_button: Portfolio: <a href="https://www.leolanese.com" target="_blank">www.leolanese.com</a>
+##### :radio_button: DEV.to: <a href="https://www.dev.to/leolanese" target="_blank">dev.to/leolanese</a>
+##### :radio_button: Blog: <a href="https://www.leolanese.com/blog" target="_blank">leolanese.com/blog</a>
+##### :radio_button: Questions / Suggestion / Recommendation: developer@leolanese.com

@@ -1,4 +1,4 @@
-# Angular Docker (based on Angular 10+)
+# Dockerizing Angular App (based on Angular 10+)
 
 > By dockerizing your apps, you can easily ship them to any of the cloud providers.
 
